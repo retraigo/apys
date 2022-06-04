@@ -1,0 +1,4970 @@
+[
+  {
+    "balance": 1,
+    "sp": 110,
+    "vit": 780,
+    "def": 0,
+    "exp": 69420,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3672,
+    "sp": 83,
+    "vit": 403,
+    "def": 16,
+    "exp": 15242,
+    "mdef": 11,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 25,
+    "sp": 13,
+    "vit": 35,
+    "def": 3,
+    "exp": 13663,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8596,
+    "sp": 2,
+    "vit": 1,
+    "def": 0,
+    "exp": 1324,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11622,
+    "sp": 4,
+    "vit": 11,
+    "def": 0,
+    "exp": 3298,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 41101,
+    "sp": 25,
+    "vit": 65,
+    "def": 18,
+    "exp": 33838,
+    "mdef": 16,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1003,
+    "sp": 13,
+    "vit": 57,
+    "def": 4,
+    "exp": 2216,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 632115,
+    "sp": 20,
+    "vit": 62,
+    "def": 5,
+    "exp": 37176,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 21,
+    "vit": 64,
+    "def": 1,
+    "exp": 56037,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9,
+    "sp": 4,
+    "vit": 42,
+    "def": 1,
+    "exp": 5674,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1675,
+    "sp": 6,
+    "vit": 18,
+    "def": 0,
+    "exp": 1259,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3032,
+    "sp": 27,
+    "vit": 118,
+    "def": 14,
+    "exp": 48675,
+    "mdef": 10,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 16366,
+    "sp": 9,
+    "vit": 18,
+    "def": 5,
+    "exp": 5195,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 57345,
+    "sp": 10,
+    "vit": 33,
+    "def": 0,
+    "exp": 15575,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 33728,
+    "sp": 215,
+    "vit": 885,
+    "def": 79,
+    "exp": 203743,
+    "mdef": 81,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 7655,
+    "sp": 3,
+    "vit": 7,
+    "def": 0,
+    "exp": 1663,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 4951,
+    "sp": 2,
+    "vit": 3,
+    "def": 0,
+    "exp": 1478,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 743,
+    "sp": 306,
+    "vit": 1086,
+    "def": 159,
+    "exp": 353170,
+    "mdef": 132,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 22440,
+    "sp": 27,
+    "vit": 123,
+    "def": 0,
+    "exp": 3546,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9038,
+    "sp": 6,
+    "vit": 24,
+    "def": 6,
+    "exp": 3650,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 38397,
+    "sp": 7,
+    "vit": 28,
+    "def": 1,
+    "exp": 3840,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 79,
+    "sp": 206,
+    "vit": 1095,
+    "def": 82,
+    "exp": 198281,
+    "mdef": 87,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 73805,
+    "sp": 355,
+    "vit": 2690,
+    "def": 104,
+    "exp": 321245,
+    "mdef": 101,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 10321,
+    "sp": 68,
+    "vit": 313,
+    "def": 45,
+    "exp": 77471,
+    "mdef": 38,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 13777,
+    "sp": 38,
+    "vit": 218,
+    "def": 30,
+    "exp": 11444,
+    "mdef": 32,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 14012,
+    "sp": 45,
+    "vit": 261,
+    "def": 32,
+    "exp": 26136,
+    "mdef": 31,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 12478,
+    "sp": 19,
+    "vit": 45,
+    "def": 4,
+    "exp": 12605,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9,
+    "sp": 35,
+    "vit": 199,
+    "def": 6,
+    "exp": 36739,
+    "mdef": 15,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2,
+    "sp": 123,
+    "vit": 851,
+    "def": 48,
+    "exp": 59263,
+    "mdef": 49,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 90,
+    "sp": 224,
+    "vit": 1149,
+    "def": 72,
+    "exp": 178488,
+    "mdef": 84,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 9860,
+    "sp": 104,
+    "vit": 573,
+    "def": 46,
+    "exp": 109200,
+    "mdef": 56,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 64,
+    "sp": 44,
+    "vit": 182,
+    "def": 31,
+    "exp": 26003,
+    "mdef": 32,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 417,
+    "sp": 15,
+    "vit": 43,
+    "def": 4,
+    "exp": 7545,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 71,
+    "sp": 16,
+    "vit": 51,
+    "def": 1,
+    "exp": 3936,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 198,
+    "sp": 95,
+    "vit": 342,
+    "def": 45,
+    "exp": 44090,
+    "mdef": 34,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 101,
+    "sp": 10,
+    "vit": 30,
+    "def": 2,
+    "exp": 4918,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 432,
+    "sp": 106,
+    "vit": 479,
+    "def": 40,
+    "exp": 96043,
+    "mdef": 40,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 952,
+    "sp": 31,
+    "vit": 140,
+    "def": 11,
+    "exp": 22698,
+    "mdef": 8,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 88654,
+    "sp": 386,
+    "vit": 1304,
+    "def": 210,
+    "exp": 680269,
+    "mdef": 191,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 363,
+    "sp": 53,
+    "vit": 222,
+    "def": 51,
+    "exp": 44676,
+    "mdef": 46,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 190,
+    "sp": 12,
+    "vit": 38,
+    "def": 2,
+    "exp": 5501,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5315,
+    "sp": 2,
+    "vit": 4,
+    "def": 0,
+    "exp": 1349,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 123100,
+    "sp": 85,
+    "vit": 283,
+    "def": 53,
+    "exp": 74483,
+    "mdef": 48,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3630,
+    "sp": 2,
+    "vit": 4,
+    "def": 0,
+    "exp": 1166,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8100,
+    "sp": 129,
+    "vit": 403,
+    "def": 47,
+    "exp": 79580,
+    "mdef": 32,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1,
+    "sp": 94,
+    "vit": 459,
+    "def": 44,
+    "exp": 67587,
+    "mdef": 47,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 346,
+    "sp": 39,
+    "vit": 175,
+    "def": 21,
+    "exp": 20922,
+    "mdef": 13,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3432,
+    "sp": 763,
+    "vit": 4277,
+    "def": 247,
+    "exp": 413797,
+    "mdef": 162,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 540,
+    "sp": 2,
+    "vit": 7,
+    "def": 0,
+    "exp": 1953,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 131,
+    "vit": 471,
+    "def": 42,
+    "exp": 57831,
+    "mdef": 41,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 4098,
+    "sp": 174,
+    "vit": 578,
+    "def": 77,
+    "exp": 158581,
+    "mdef": 73,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 36,
+    "sp": 139,
+    "vit": 608,
+    "def": 33,
+    "exp": 39726,
+    "mdef": 34,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 52756,
+    "sp": 5,
+    "vit": 14,
+    "def": 0,
+    "exp": 4971,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 107365,
+    "sp": 30,
+    "vit": 125,
+    "def": 27,
+    "exp": 11317,
+    "mdef": 26,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 10982,
+    "sp": 17,
+    "vit": 74,
+    "def": 2,
+    "exp": 6417,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5874,
+    "sp": 2,
+    "vit": 7,
+    "def": 0,
+    "exp": 2439,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9,
+    "sp": 439,
+    "vit": 1629,
+    "def": 98,
+    "exp": 268838,
+    "mdef": 83,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 24800,
+    "sp": 5,
+    "vit": 6,
+    "def": 0,
+    "exp": 2123,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 55940,
+    "sp": 8,
+    "vit": 26,
+    "def": 0,
+    "exp": 20697,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1849,
+    "sp": 156,
+    "vit": 543,
+    "def": 94,
+    "exp": 174314,
+    "mdef": 75,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 4136,
+    "sp": 268,
+    "vit": 1236,
+    "def": 127,
+    "exp": 341892,
+    "mdef": 123,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 410,
+    "sp": 25,
+    "vit": 107,
+    "def": 14,
+    "exp": 18499,
+    "mdef": 8,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3525,
+    "sp": 10,
+    "vit": 26,
+    "def": 0,
+    "exp": 8556,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7344,
+    "sp": 23,
+    "vit": 83,
+    "def": 10,
+    "exp": 9014,
+    "mdef": 7,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 725,
+    "sp": 74,
+    "vit": 244,
+    "def": 24,
+    "exp": 63041,
+    "mdef": 19,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1965,
+    "sp": 2,
+    "vit": 3,
+    "def": 0,
+    "exp": 1848,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1385,
+    "sp": 28,
+    "vit": 71,
+    "def": 13,
+    "exp": 21026,
+    "mdef": 14,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 194,
+    "sp": 167,
+    "vit": 566,
+    "def": 60,
+    "exp": 122503,
+    "mdef": 58,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2346,
+    "sp": 93,
+    "vit": 267,
+    "def": 21,
+    "exp": 64992,
+    "mdef": 14,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6973,
+    "sp": 2,
+    "vit": 8,
+    "def": 0,
+    "exp": 3964,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 542,
+    "sp": 137,
+    "vit": 381,
+    "def": 37,
+    "exp": 58242,
+    "mdef": 40,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1150,
+    "sp": 5,
+    "vit": 4,
+    "def": 0,
+    "exp": 1030,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2415,
+    "sp": 475,
+    "vit": 1399,
+    "def": 84,
+    "exp": 357343,
+    "mdef": 82,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 4895,
+    "sp": 19,
+    "vit": 58,
+    "def": 1,
+    "exp": 12600,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 9,
+    "vit": 24,
+    "def": 0,
+    "exp": 21350,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3800,
+    "sp": 4,
+    "vit": 7,
+    "def": 0,
+    "exp": 1247,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11338,
+    "sp": 2,
+    "vit": 7,
+    "def": 0,
+    "exp": 1858,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 764,
+    "sp": 21,
+    "vit": 87,
+    "def": 12,
+    "exp": 15186,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3167,
+    "sp": 44,
+    "vit": 231,
+    "def": 15,
+    "exp": 34730,
+    "mdef": 14,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2057,
+    "sp": 160,
+    "vit": 610,
+    "def": 195,
+    "exp": 57864,
+    "mdef": 203,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7577,
+    "sp": 33,
+    "vit": 87,
+    "def": 10,
+    "exp": 22264,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 113,
+    "sp": 241,
+    "vit": 848,
+    "def": 75,
+    "exp": 233622,
+    "mdef": 65,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 68000,
+    "sp": 0,
+    "vit": 0,
+    "def": 0,
+    "exp": 1260,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 64600,
+    "sp": 0,
+    "vit": 0,
+    "def": 0,
+    "exp": 1170,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 535,
+    "sp": 104,
+    "vit": 577,
+    "def": 31,
+    "exp": 59205,
+    "mdef": 31,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8376,
+    "sp": 5,
+    "vit": 12,
+    "def": 0,
+    "exp": 4480,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 15880,
+    "sp": 12,
+    "vit": 35,
+    "def": 0,
+    "exp": 6258,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 17395,
+    "sp": 6,
+    "vit": 10,
+    "def": 0,
+    "exp": 2752,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8746,
+    "sp": 21,
+    "vit": 101,
+    "def": 4,
+    "exp": 17727,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 614,
+    "sp": 34,
+    "vit": 93,
+    "def": 2,
+    "exp": 22008,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1220,
+    "sp": 66,
+    "vit": 286,
+    "def": 14,
+    "exp": 35835,
+    "mdef": 11,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 16992,
+    "sp": 120,
+    "vit": 848,
+    "def": 61,
+    "exp": 87314,
+    "mdef": 67,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2238,
+    "sp": 152,
+    "vit": 869,
+    "def": 69,
+    "exp": 83910,
+    "mdef": 58,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 305,
+    "sp": 11,
+    "vit": 58,
+    "def": 2,
+    "exp": 5287,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2437,
+    "sp": 3,
+    "vit": 11,
+    "def": 0,
+    "exp": 4004,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 58014,
+    "sp": 67,
+    "vit": 174,
+    "def": 6,
+    "exp": 78334,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 147,
+    "sp": 781,
+    "vit": 4264,
+    "def": 336,
+    "exp": 822001,
+    "mdef": 350,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 7950,
+    "sp": 18,
+    "vit": 65,
+    "def": 2,
+    "exp": 6193,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8876,
+    "sp": 4,
+    "vit": 22,
+    "def": 0,
+    "exp": 4035,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 714,
+    "sp": 5,
+    "vit": 11,
+    "def": 0,
+    "exp": 1833,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 74,
+    "sp": 78,
+    "vit": 277,
+    "def": 16,
+    "exp": 95093,
+    "mdef": 31,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 66,
+    "vit": 271,
+    "def": 0,
+    "exp": 119138,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 46266,
+    "sp": 69,
+    "vit": 304,
+    "def": 0,
+    "exp": 159585,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 45,
+    "vit": 193,
+    "def": 25,
+    "exp": 127297,
+    "mdef": 25,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1505,
+    "sp": 52,
+    "vit": 177,
+    "def": 15,
+    "exp": 123311,
+    "mdef": 15,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11117,
+    "sp": 7,
+    "vit": 25,
+    "def": 25,
+    "exp": 3232,
+    "mdef": 26,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6912,
+    "sp": 6,
+    "vit": 20,
+    "def": 0,
+    "exp": 1887,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 4548,
+    "sp": 33,
+    "vit": 143,
+    "def": 8,
+    "exp": 27420,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 227910,
+    "sp": 504,
+    "vit": 2273,
+    "def": 281,
+    "exp": 904216,
+    "mdef": 215,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 67,
+    "sp": 38,
+    "vit": 89,
+    "def": 4,
+    "exp": 16576,
+    "mdef": 10,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 47541,
+    "sp": 3,
+    "vit": 4,
+    "def": 0,
+    "exp": 2144,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2908,
+    "sp": 25,
+    "vit": 58,
+    "def": 5,
+    "exp": 13213,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 4476,
+    "sp": 4,
+    "vit": 6,
+    "def": 0,
+    "exp": 1927,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 25852,
+    "sp": 6,
+    "vit": 13,
+    "def": 0,
+    "exp": 4468,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6208,
+    "sp": 33,
+    "vit": 174,
+    "def": 23,
+    "exp": 28561,
+    "mdef": 16,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1491,
+    "sp": 5,
+    "vit": 14,
+    "def": 0,
+    "exp": 5417,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 15731,
+    "sp": 267,
+    "vit": 1798,
+    "def": 78,
+    "exp": 241760,
+    "mdef": 74,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 567,
+    "sp": 664,
+    "vit": 1854,
+    "def": 166,
+    "exp": 483467,
+    "mdef": 143,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 634,
+    "sp": 86,
+    "vit": 233,
+    "def": 37,
+    "exp": 78771,
+    "mdef": 36,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1026,
+    "sp": 41,
+    "vit": 170,
+    "def": 37,
+    "exp": 17115,
+    "mdef": 36,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 21769,
+    "sp": 88,
+    "vit": 299,
+    "def": 56,
+    "exp": 52688,
+    "mdef": 49,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6704,
+    "sp": 12,
+    "vit": 52,
+    "def": 4,
+    "exp": 5150,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 881,
+    "sp": 865,
+    "vit": 4732,
+    "def": 261,
+    "exp": 757144,
+    "mdef": 255,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 1562,
+    "sp": 2,
+    "vit": 6,
+    "def": 0,
+    "exp": 1211,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5457,
+    "sp": 252,
+    "vit": 2132,
+    "def": 105,
+    "exp": 186901,
+    "mdef": 102,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 115663,
+    "sp": 355,
+    "vit": 1147,
+    "def": 228,
+    "exp": 571827,
+    "mdef": 233,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 4428,
+    "sp": 119,
+    "vit": 560,
+    "def": 18,
+    "exp": 94074,
+    "mdef": 29,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 12788,
+    "sp": 12,
+    "vit": 40,
+    "def": 1,
+    "exp": 7980,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6834,
+    "sp": 23,
+    "vit": 83,
+    "def": 8,
+    "exp": 8679,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 358,
+    "sp": 59,
+    "vit": 181,
+    "def": 34,
+    "exp": 13465,
+    "mdef": 31,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5789,
+    "sp": 9,
+    "vit": 56,
+    "def": 0,
+    "exp": 4372,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 95,
+    "sp": 1980,
+    "vit": 8106,
+    "def": 470,
+    "exp": 2594789,
+    "mdef": 511,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 1,
+    "sp": 136,
+    "vit": 559,
+    "def": 130,
+    "exp": 119863,
+    "mdef": 122,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6510,
+    "sp": 17,
+    "vit": 68,
+    "def": 7,
+    "exp": 14144,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1766,
+    "sp": 4,
+    "vit": 7,
+    "def": 0,
+    "exp": 1889,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 921,
+    "sp": 52,
+    "vit": 265,
+    "def": 25,
+    "exp": 144947,
+    "mdef": 27,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6530,
+    "sp": 2,
+    "vit": 3,
+    "def": 0,
+    "exp": 1991,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 2,
+    "vit": 3,
+    "def": 0,
+    "exp": 1526,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 572,
+    "sp": 72,
+    "vit": 443,
+    "def": 11,
+    "exp": 36310,
+    "mdef": 12,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 105,
+    "sp": 64,
+    "vit": 358,
+    "def": 13,
+    "exp": 25271,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 19897,
+    "sp": 291,
+    "vit": 1256,
+    "def": 71,
+    "exp": 171505,
+    "mdef": 85,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 0,
+    "sp": 3,
+    "vit": 3,
+    "def": 0,
+    "exp": 8347,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 102,
+    "sp": 2,
+    "vit": 3,
+    "def": 0,
+    "exp": 1043,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 4088,
+    "sp": 4,
+    "vit": 46,
+    "def": 0,
+    "exp": 3217,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 359,
+    "vit": 1193,
+    "def": 120,
+    "exp": 389921,
+    "mdef": 181,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 1989,
+    "sp": 360,
+    "vit": 1166,
+    "def": 104,
+    "exp": 286232,
+    "mdef": 105,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 4800,
+    "sp": 2,
+    "vit": 5,
+    "def": 0,
+    "exp": 1174,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2339,
+    "sp": 3,
+    "vit": 7,
+    "def": 0,
+    "exp": 1608,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 21309,
+    "sp": 7,
+    "vit": 8,
+    "def": 0,
+    "exp": 5931,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 41308,
+    "sp": 12,
+    "vit": 35,
+    "def": 3,
+    "exp": 5597,
+    "mdef": 7,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2123,
+    "sp": 42,
+    "vit": 162,
+    "def": 39,
+    "exp": 15189,
+    "mdef": 37,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9316,
+    "sp": 67,
+    "vit": 288,
+    "def": 42,
+    "exp": 43650,
+    "mdef": 38,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2256,
+    "sp": 2,
+    "vit": 6,
+    "def": 0,
+    "exp": 1597,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 10687,
+    "sp": 1013,
+    "vit": 4169,
+    "def": 657,
+    "exp": 1426031,
+    "mdef": 401,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 28219,
+    "sp": 223,
+    "vit": 693,
+    "def": 106,
+    "exp": 20608,
+    "mdef": 105,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7847,
+    "sp": 282,
+    "vit": 998,
+    "def": 126,
+    "exp": 68641,
+    "mdef": 112,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 175,
+    "sp": 247,
+    "vit": 863,
+    "def": 101,
+    "exp": 14961,
+    "mdef": 99,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 108,
+    "sp": 393,
+    "vit": 1287,
+    "def": 135,
+    "exp": 327737,
+    "mdef": 139,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": -96656,
+    "sp": 408,
+    "vit": 1368,
+    "def": 163,
+    "exp": 326604,
+    "mdef": 136,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 3108,
+    "sp": 4,
+    "vit": 8,
+    "def": 0,
+    "exp": 2078,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 64295,
+    "sp": 261,
+    "vit": 893,
+    "def": 105,
+    "exp": 39049,
+    "mdef": 106,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 16,
+    "sp": 898,
+    "vit": 4571,
+    "def": 602,
+    "exp": 1406109,
+    "mdef": 588,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 3194,
+    "sp": 804,
+    "vit": 3206,
+    "def": 344,
+    "exp": 1463672,
+    "mdef": 345,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 159,
+    "sp": 433,
+    "vit": 1318,
+    "def": 140,
+    "exp": 432085,
+    "mdef": 134,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 2204,
+    "sp": 529,
+    "vit": 1805,
+    "def": 247,
+    "exp": 394978,
+    "mdef": 253,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 2795,
+    "sp": 21,
+    "vit": 130,
+    "def": 5,
+    "exp": 12574,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1265,
+    "sp": 3,
+    "vit": 11,
+    "def": 0,
+    "exp": 1884,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 34901,
+    "sp": 778,
+    "vit": 2600,
+    "def": 443,
+    "exp": 1009978,
+    "mdef": 449,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 16466,
+    "sp": 8,
+    "vit": 120,
+    "def": 0,
+    "exp": 2746,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 18189,
+    "sp": 2,
+    "vit": 6,
+    "def": 0,
+    "exp": 2199,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 27513,
+    "sp": 13,
+    "vit": 37,
+    "def": 1,
+    "exp": 15325,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8321,
+    "sp": 365,
+    "vit": 1344,
+    "def": 136,
+    "exp": 351936,
+    "mdef": 132,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 17481,
+    "sp": 11,
+    "vit": 30,
+    "def": 5,
+    "exp": 15387,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 14705,
+    "sp": 70,
+    "vit": 175,
+    "def": 28,
+    "exp": 80983,
+    "mdef": 19,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 13512,
+    "sp": 330,
+    "vit": 1052,
+    "def": 128,
+    "exp": 89464,
+    "mdef": 128,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7195,
+    "sp": 62,
+    "vit": 276,
+    "def": 22,
+    "exp": 32506,
+    "mdef": 12,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 650,
+    "sp": 28,
+    "vit": 159,
+    "def": 2,
+    "exp": 17901,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11,
+    "sp": 616,
+    "vit": 1844,
+    "def": 284,
+    "exp": 282838,
+    "mdef": 284,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 92304,
+    "sp": 66,
+    "vit": 290,
+    "def": 34,
+    "exp": 22590,
+    "mdef": 35,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 10199,
+    "sp": 33,
+    "vit": 131,
+    "def": 3,
+    "exp": 27328,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 463,
+    "sp": 4,
+    "vit": 13,
+    "def": 0,
+    "exp": 1665,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1885,
+    "sp": 28,
+    "vit": 96,
+    "def": 6,
+    "exp": 27948,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2829,
+    "sp": 720,
+    "vit": 2340,
+    "def": 325,
+    "exp": 784716,
+    "mdef": 321,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 4626,
+    "sp": 358,
+    "vit": 1216,
+    "def": 191,
+    "exp": 173747,
+    "mdef": 178,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 8814,
+    "sp": 8,
+    "vit": 45,
+    "def": 0,
+    "exp": 9437,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3627,
+    "sp": 5,
+    "vit": 17,
+    "def": 0,
+    "exp": 1095,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 300,
+    "sp": 4,
+    "vit": 7,
+    "def": 0,
+    "exp": 2821,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 33910,
+    "sp": 2,
+    "vit": 4,
+    "def": 0,
+    "exp": 1470,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 999,
+    "sp": 29,
+    "vit": 109,
+    "def": 2,
+    "exp": 22338,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 22188,
+    "sp": 40,
+    "vit": 143,
+    "def": 3,
+    "exp": 23491,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5527,
+    "sp": 503,
+    "vit": 2038,
+    "def": 209,
+    "exp": 91758,
+    "mdef": 204,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 12925,
+    "sp": 41,
+    "vit": 218,
+    "def": 4,
+    "exp": 42083,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1144,
+    "sp": 250,
+    "vit": 773,
+    "def": 153,
+    "exp": 39949,
+    "mdef": 102,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 39,
+    "sp": 342,
+    "vit": 1477,
+    "def": 145,
+    "exp": 85808,
+    "mdef": 137,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 3256,
+    "vit": 7511,
+    "def": 5950,
+    "exp": 26760,
+    "mdef": 5235,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1224,
+    "sp": 4,
+    "vit": 6,
+    "def": 0,
+    "exp": 1660,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 207,
+    "sp": 9002,
+    "vit": 1013,
+    "def": 0,
+    "exp": 14941,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1944,
+    "sp": 26,
+    "vit": 111,
+    "def": 1,
+    "exp": 16818,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3336,
+    "sp": 52,
+    "vit": 149,
+    "def": 6,
+    "exp": 57741,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 65,
+    "sp": 17,
+    "vit": 55,
+    "def": 0,
+    "exp": 2123,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3694,
+    "sp": 7,
+    "vit": 31,
+    "def": 0,
+    "exp": 1290,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 592,
+    "sp": 2,
+    "vit": 4,
+    "def": 1,
+    "exp": 1091,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2309,
+    "sp": 12,
+    "vit": 49,
+    "def": 7,
+    "exp": 8413,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2988,
+    "sp": 553,
+    "vit": 2074,
+    "def": 208,
+    "exp": 98303,
+    "mdef": 209,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 178,
+    "sp": 35,
+    "vit": 181,
+    "def": 1,
+    "exp": 19012,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 78,
+    "sp": 150,
+    "vit": 752,
+    "def": 45,
+    "exp": 101400,
+    "mdef": 42,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1375,
+    "sp": 150,
+    "vit": 532,
+    "def": 9,
+    "exp": 109181,
+    "mdef": 12,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 911,
+    "sp": 2,
+    "vit": 6,
+    "def": 0,
+    "exp": 2416,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3101,
+    "sp": 127,
+    "vit": 624,
+    "def": 42,
+    "exp": 172820,
+    "mdef": 14,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 284,
+    "sp": 38,
+    "vit": 192,
+    "def": 0,
+    "exp": 24499,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1420,
+    "sp": 2,
+    "vit": 15,
+    "def": 0,
+    "exp": 3132,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 712,
+    "sp": 19,
+    "vit": 98,
+    "def": 0,
+    "exp": 17596,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 312,
+    "sp": 83,
+    "vit": 358,
+    "def": 14,
+    "exp": 66846,
+    "mdef": 12,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 77,
+    "sp": 18,
+    "vit": 49,
+    "def": 0,
+    "exp": 10020,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 10848,
+    "sp": 7,
+    "vit": 27,
+    "def": 0,
+    "exp": 1903,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11206,
+    "sp": 16,
+    "vit": 64,
+    "def": 0,
+    "exp": 8828,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 86956,
+    "sp": 288,
+    "vit": 1344,
+    "def": 74,
+    "exp": 186663,
+    "mdef": 55,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 1359,
+    "sp": 113,
+    "vit": 643,
+    "def": 29,
+    "exp": 70106,
+    "mdef": 28,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1,
+    "sp": 28,
+    "vit": 163,
+    "def": 0,
+    "exp": 18046,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 189,
+    "sp": 47,
+    "vit": 303,
+    "def": 0,
+    "exp": 28943,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 10363,
+    "sp": 100,
+    "vit": 550,
+    "def": 29,
+    "exp": 66295,
+    "mdef": 29,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1553,
+    "sp": 85,
+    "vit": 377,
+    "def": 4,
+    "exp": 78636,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 17318,
+    "sp": 4,
+    "vit": 10,
+    "def": 0,
+    "exp": 1280,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 35,
+    "sp": 11,
+    "vit": 40,
+    "def": 0,
+    "exp": 1765,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3882,
+    "sp": 5,
+    "vit": 11,
+    "def": 0,
+    "exp": 2692,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5341,
+    "sp": 10,
+    "vit": 29,
+    "def": 0,
+    "exp": 6543,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 25650,
+    "sp": 2,
+    "vit": 3,
+    "def": 0,
+    "exp": 2070,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7628,
+    "sp": 1585,
+    "vit": 6434,
+    "def": 609,
+    "exp": 1614935,
+    "mdef": 552,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 33,
+    "sp": 4,
+    "vit": 6,
+    "def": 0,
+    "exp": 1888,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2684,
+    "sp": 11,
+    "vit": 38,
+    "def": 0,
+    "exp": 3340,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 25666,
+    "sp": 14,
+    "vit": 75,
+    "def": 0,
+    "exp": 8699,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3,
+    "sp": 607,
+    "vit": 1847,
+    "def": 337,
+    "exp": 204259,
+    "mdef": 247,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 1452,
+    "sp": 5,
+    "vit": 19,
+    "def": 0,
+    "exp": 1520,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 27488,
+    "sp": 98,
+    "vit": 291,
+    "def": 1,
+    "exp": 41404,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1767,
+    "sp": 19,
+    "vit": 125,
+    "def": 0,
+    "exp": 7269,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 345,
+    "sp": 20,
+    "vit": 117,
+    "def": 0,
+    "exp": 12578,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7263,
+    "sp": 160,
+    "vit": 794,
+    "def": 25,
+    "exp": 89578,
+    "mdef": 23,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6016,
+    "sp": 78,
+    "vit": 64,
+    "def": 0,
+    "exp": 5083,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 71,
+    "sp": 125,
+    "vit": 620,
+    "def": 4,
+    "exp": 66080,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3,
+    "sp": 7,
+    "vit": 42,
+    "def": 0,
+    "exp": 4206,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 299,
+    "sp": 59,
+    "vit": 268,
+    "def": 2,
+    "exp": 20542,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9230,
+    "sp": 8,
+    "vit": 37,
+    "def": 0,
+    "exp": 3178,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 410,
+    "sp": 2,
+    "vit": 5,
+    "def": 0,
+    "exp": 1560,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 29711,
+    "sp": 19,
+    "vit": 65,
+    "def": 0,
+    "exp": 5861,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 611,
+    "sp": 5,
+    "vit": 13,
+    "def": 0,
+    "exp": 1002,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2200,
+    "sp": 6,
+    "vit": 5,
+    "def": 0,
+    "exp": 1662,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 10674,
+    "sp": 13,
+    "vit": 42,
+    "def": 0,
+    "exp": 4281,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3369,
+    "sp": 4,
+    "vit": 9,
+    "def": 0,
+    "exp": 1340,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9180,
+    "sp": 6,
+    "vit": 13,
+    "def": 0,
+    "exp": 1993,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 26607,
+    "sp": 125,
+    "vit": 698,
+    "def": 29,
+    "exp": 55994,
+    "mdef": 26,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 27774,
+    "sp": 111,
+    "vit": 320,
+    "def": 5,
+    "exp": 23895,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 10,
+    "vit": 44,
+    "def": 0,
+    "exp": 1699,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 17714,
+    "sp": 2,
+    "vit": 3,
+    "def": 0,
+    "exp": 3720,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2446,
+    "sp": 3,
+    "vit": 4,
+    "def": 0,
+    "exp": 1070,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 166300,
+    "sp": 0,
+    "vit": 0,
+    "def": 0,
+    "exp": 3150,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 26528,
+    "sp": 7,
+    "vit": 18,
+    "def": 0,
+    "exp": 9395,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 29301,
+    "sp": 66,
+    "vit": 235,
+    "def": 0,
+    "exp": 44352,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 30882,
+    "sp": 22,
+    "vit": 143,
+    "def": 1,
+    "exp": 20980,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2569,
+    "sp": 6,
+    "vit": 27,
+    "def": 0,
+    "exp": 6896,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 117445,
+    "sp": 861,
+    "vit": 3107,
+    "def": 231,
+    "exp": 330658,
+    "mdef": 209,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 5932,
+    "sp": 8,
+    "vit": 40,
+    "def": 0,
+    "exp": 1160,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 66529,
+    "sp": 23,
+    "vit": 84,
+    "def": 0,
+    "exp": 11477,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 169236,
+    "sp": 22,
+    "vit": 73,
+    "def": 0,
+    "exp": 22317,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 24729,
+    "sp": 8,
+    "vit": 8,
+    "def": 0,
+    "exp": 4973,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 18796,
+    "sp": 2,
+    "vit": 14,
+    "def": 0,
+    "exp": 3844,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 29485,
+    "sp": 35,
+    "vit": 122,
+    "def": 0,
+    "exp": 30841,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2743,
+    "sp": 4,
+    "vit": 12,
+    "def": 0,
+    "exp": 3394,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 554,
+    "sp": 11,
+    "vit": 35,
+    "def": 0,
+    "exp": 8216,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 110442,
+    "sp": 368,
+    "vit": 1724,
+    "def": 162,
+    "exp": 241608,
+    "mdef": 160,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 15101,
+    "sp": 16,
+    "vit": 87,
+    "def": 0,
+    "exp": 4262,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7972,
+    "sp": 5,
+    "vit": 31,
+    "def": 0,
+    "exp": 1166,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 22089,
+    "sp": 22,
+    "vit": 57,
+    "def": 0,
+    "exp": 4958,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 40695,
+    "sp": 117,
+    "vit": 483,
+    "def": 0,
+    "exp": 57302,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11909,
+    "sp": 29,
+    "vit": 112,
+    "def": 0,
+    "exp": 7362,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 13616,
+    "sp": 76,
+    "vit": 287,
+    "def": 0,
+    "exp": 28222,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6261,
+    "sp": 26,
+    "vit": 95,
+    "def": 1,
+    "exp": 8368,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 25,
+    "sp": 57,
+    "vit": 218,
+    "def": 0,
+    "exp": 12030,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1415,
+    "sp": 1024,
+    "vit": 3923,
+    "def": 368,
+    "exp": 1008883,
+    "mdef": 370,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 3032,
+    "sp": 1661,
+    "vit": 6834,
+    "def": 753,
+    "exp": 1901630,
+    "mdef": 742,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 1032,
+    "sp": 3266,
+    "vit": 26452,
+    "def": 1052,
+    "exp": 6727992,
+    "mdef": 1019,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 50530,
+    "sp": 219,
+    "vit": 670,
+    "def": 102,
+    "exp": 29832,
+    "mdef": 99,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 49,
+    "sp": 111,
+    "vit": 474,
+    "def": 16,
+    "exp": 55122,
+    "mdef": 10,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8,
+    "sp": 963,
+    "vit": 3259,
+    "def": 321,
+    "exp": 326000,
+    "mdef": 276,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": -346,
+    "sp": 87,
+    "vit": 356,
+    "def": 0,
+    "exp": 23434,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 155,
+    "sp": 16,
+    "vit": 65,
+    "def": 0,
+    "exp": 5040,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1050,
+    "sp": 194,
+    "vit": 904,
+    "def": 51,
+    "exp": 98019,
+    "mdef": 49,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 13817,
+    "sp": 408,
+    "vit": 2224,
+    "def": 233,
+    "exp": 580449,
+    "mdef": 217,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 78,
+    "sp": 14,
+    "vit": 59,
+    "def": 0,
+    "exp": 3708,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 149,
+    "sp": 613,
+    "vit": 2553,
+    "def": 102,
+    "exp": 401989,
+    "mdef": 101,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 32198,
+    "sp": 217,
+    "vit": 641,
+    "def": 102,
+    "exp": 21569,
+    "mdef": 101,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 37876,
+    "sp": 242,
+    "vit": 735,
+    "def": 115,
+    "exp": 47328,
+    "mdef": 106,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1,
+    "sp": 190,
+    "vit": 1000,
+    "def": 0,
+    "exp": 30760,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9973,
+    "sp": 73,
+    "vit": 305,
+    "def": 9,
+    "exp": 37035,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 39,
+    "sp": 16,
+    "vit": 60,
+    "def": 0,
+    "exp": 2437,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 22264,
+    "sp": 13,
+    "vit": 54,
+    "def": 0,
+    "exp": 2309,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8,
+    "sp": 4,
+    "vit": 16,
+    "def": 0,
+    "exp": 1596,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 64,
+    "vit": 464,
+    "def": 0,
+    "exp": 18383,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": -298553,
+    "sp": 1252,
+    "vit": 5033,
+    "def": 438,
+    "exp": 1146971,
+    "mdef": 338,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 7684,
+    "sp": 156,
+    "vit": 605,
+    "def": 70,
+    "exp": 113600,
+    "mdef": 96,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 393,
+    "sp": 2413,
+    "vit": 10090,
+    "def": 739,
+    "exp": 3877939,
+    "mdef": 724,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 319028,
+    "sp": 121,
+    "vit": 600,
+    "def": 0,
+    "exp": 34135,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9972,
+    "sp": 14,
+    "vit": 59,
+    "def": 0,
+    "exp": 9129,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2810,
+    "sp": 1585,
+    "vit": 5697,
+    "def": 402,
+    "exp": 1465287,
+    "mdef": 347,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 5146,
+    "sp": 663,
+    "vit": 3083,
+    "def": 117,
+    "exp": 409067,
+    "mdef": 109,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 3634,
+    "sp": 6423,
+    "vit": 38531,
+    "def": 1750,
+    "exp": 9655671,
+    "mdef": 1405,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 1828,
+    "sp": 20,
+    "vit": 108,
+    "def": 0,
+    "exp": 2829,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2088,
+    "sp": 5774,
+    "vit": 44519,
+    "def": 7642,
+    "exp": 1000991,
+    "mdef": 7680,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 14514820,
+    "sp": 180,
+    "vit": 2000,
+    "def": 0,
+    "exp": 3565394,
+    "mdef": 100,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7234,
+    "sp": 25,
+    "vit": 122,
+    "def": 0,
+    "exp": 4807,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6044,
+    "sp": 114,
+    "vit": 290,
+    "def": 1,
+    "exp": 30363,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 75717,
+    "sp": 12,
+    "vit": 44,
+    "def": 0,
+    "exp": 5780,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5116,
+    "sp": 13,
+    "vit": 55,
+    "def": 0,
+    "exp": 1133,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1426,
+    "sp": 1870,
+    "vit": 32458,
+    "def": 661,
+    "exp": 594713,
+    "mdef": 626,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 44713,
+    "sp": 44,
+    "vit": 184,
+    "def": 14,
+    "exp": 51825,
+    "mdef": 17,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 259,
+    "sp": 105,
+    "vit": 619,
+    "def": 27,
+    "exp": 99787,
+    "mdef": 21,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 21050,
+    "sp": 6,
+    "vit": 15,
+    "def": 0,
+    "exp": 11764,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 41338,
+    "sp": 4,
+    "vit": 16,
+    "def": 0,
+    "exp": 6136,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 33,
+    "sp": 121,
+    "vit": 579,
+    "def": 45,
+    "exp": 96228,
+    "mdef": 32,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 17892,
+    "sp": 3,
+    "vit": 7,
+    "def": 0,
+    "exp": 3498,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 27700,
+    "sp": 42,
+    "vit": 166,
+    "def": 6,
+    "exp": 17071,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 14072,
+    "sp": 2,
+    "vit": 7,
+    "def": 0,
+    "exp": 2358,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 13149,
+    "sp": 25,
+    "vit": 114,
+    "def": 4,
+    "exp": 6919,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3197,
+    "sp": 15,
+    "vit": 85,
+    "def": 0,
+    "exp": 1278,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6537,
+    "sp": 8,
+    "vit": 40,
+    "def": 2,
+    "exp": 1609,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 152,
+    "sp": 280,
+    "vit": 1711,
+    "def": 46,
+    "exp": 203054,
+    "mdef": 46,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 63,
+    "sp": 282,
+    "vit": 2057,
+    "def": 52,
+    "exp": 112768,
+    "mdef": 43,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 28,
+    "vit": 99,
+    "def": 8,
+    "exp": 24143,
+    "mdef": 10,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 941,
+    "sp": 31,
+    "vit": 119,
+    "def": 6,
+    "exp": 30454,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2684,
+    "sp": 271,
+    "vit": 2047,
+    "def": 54,
+    "exp": 210286,
+    "mdef": 46,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 167,
+    "sp": 432,
+    "vit": 2427,
+    "def": 86,
+    "exp": 394589,
+    "mdef": 70,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 28,
+    "sp": 131,
+    "vit": 495,
+    "def": 37,
+    "exp": 92280,
+    "mdef": 31,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 225,
+    "sp": 65,
+    "vit": 275,
+    "def": 30,
+    "exp": 71207,
+    "mdef": 21,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11,
+    "sp": 46,
+    "vit": 252,
+    "def": 23,
+    "exp": 43119,
+    "mdef": 18,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8691,
+    "sp": 98,
+    "vit": 539,
+    "def": 22,
+    "exp": 52361,
+    "mdef": 24,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5874,
+    "sp": 6,
+    "vit": 45,
+    "def": 3,
+    "exp": 9242,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 23628,
+    "sp": 5,
+    "vit": 19,
+    "def": 0,
+    "exp": 2891,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 113696,
+    "sp": 22,
+    "vit": 41,
+    "def": 7,
+    "exp": 17927,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 45436,
+    "sp": 110,
+    "vit": 497,
+    "def": 25,
+    "exp": 53068,
+    "mdef": 23,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 136,
+    "sp": 119,
+    "vit": 400,
+    "def": 28,
+    "exp": 109543,
+    "mdef": 26,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 4390,
+    "sp": 5,
+    "vit": 23,
+    "def": 2,
+    "exp": 3351,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6008,
+    "sp": 2,
+    "vit": 5,
+    "def": 0,
+    "exp": 1016,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 221644,
+    "sp": 168,
+    "vit": 524,
+    "def": 61,
+    "exp": 209017,
+    "mdef": 76,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 51868,
+    "sp": 154,
+    "vit": 607,
+    "def": 60,
+    "exp": 149309,
+    "mdef": 67,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 15232,
+    "sp": 49,
+    "vit": 246,
+    "def": 14,
+    "exp": 21514,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 111969,
+    "sp": 174,
+    "vit": 616,
+    "def": 56,
+    "exp": 283622,
+    "mdef": 55,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 724,
+    "sp": 50,
+    "vit": 306,
+    "def": 12,
+    "exp": 25543,
+    "mdef": 10,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 29707,
+    "sp": 23,
+    "vit": 72,
+    "def": 11,
+    "exp": 25289,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 21614,
+    "sp": 48,
+    "vit": 273,
+    "def": 10,
+    "exp": 36915,
+    "mdef": 8,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 18161,
+    "sp": 241,
+    "vit": 1014,
+    "def": 31,
+    "exp": 79356,
+    "mdef": 30,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 176,
+    "sp": 38,
+    "vit": 161,
+    "def": 10,
+    "exp": 17751,
+    "mdef": 8,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 200,
+    "sp": 4,
+    "vit": 11,
+    "def": 0,
+    "exp": 2666,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2604,
+    "sp": 32,
+    "vit": 124,
+    "def": 6,
+    "exp": 12213,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2170,
+    "sp": 18,
+    "vit": 82,
+    "def": 5,
+    "exp": 9037,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 20728,
+    "sp": 146,
+    "vit": 492,
+    "def": 66,
+    "exp": 193090,
+    "mdef": 61,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 6939,
+    "sp": 12,
+    "vit": 41,
+    "def": 3,
+    "exp": 5769,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 34049,
+    "sp": 135,
+    "vit": 670,
+    "def": 13,
+    "exp": 33655,
+    "mdef": 27,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9569,
+    "sp": 5,
+    "vit": 20,
+    "def": 0,
+    "exp": 1015,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 10063,
+    "sp": 32,
+    "vit": 187,
+    "def": 6,
+    "exp": 23960,
+    "mdef": 8,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3977,
+    "sp": 6,
+    "vit": 17,
+    "def": 0,
+    "exp": 1169,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1127,
+    "sp": 10,
+    "vit": 58,
+    "def": 2,
+    "exp": 6468,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3368,
+    "sp": 74,
+    "vit": 294,
+    "def": 17,
+    "exp": 34158,
+    "mdef": 19,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 19576,
+    "sp": 92,
+    "vit": 285,
+    "def": 28,
+    "exp": 54815,
+    "mdef": 35,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 266,
+    "sp": 20,
+    "vit": 73,
+    "def": 5,
+    "exp": 30719,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 185,
+    "sp": 9,
+    "vit": 51,
+    "def": 2,
+    "exp": 4193,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 18633,
+    "sp": 5,
+    "vit": 16,
+    "def": 0,
+    "exp": 9334,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 86251,
+    "sp": 68,
+    "vit": 304,
+    "def": 17,
+    "exp": 48561,
+    "mdef": 17,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 48030,
+    "sp": 17,
+    "vit": 59,
+    "def": 4,
+    "exp": 13916,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 21137,
+    "sp": 74,
+    "vit": 363,
+    "def": 14,
+    "exp": 36738,
+    "mdef": 16,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 17647,
+    "sp": 2,
+    "vit": 10,
+    "def": 0,
+    "exp": 1631,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 10329,
+    "sp": 2,
+    "vit": 8,
+    "def": 0,
+    "exp": 2357,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 83304,
+    "sp": 73,
+    "vit": 202,
+    "def": 30,
+    "exp": 64078,
+    "mdef": 31,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 26417,
+    "sp": 151,
+    "vit": 641,
+    "def": 27,
+    "exp": 75562,
+    "mdef": 22,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 39758,
+    "sp": 166,
+    "vit": 706,
+    "def": 20,
+    "exp": 95270,
+    "mdef": 28,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 44196,
+    "sp": 95,
+    "vit": 391,
+    "def": 40,
+    "exp": 51579,
+    "mdef": 37,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8395,
+    "sp": 74,
+    "vit": 328,
+    "def": 6,
+    "exp": 18698,
+    "mdef": 7,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 54811,
+    "sp": 7,
+    "vit": 34,
+    "def": 1,
+    "exp": 5205,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 15050,
+    "sp": 6,
+    "vit": 30,
+    "def": 2,
+    "exp": 16202,
+    "mdef": 11,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 43447,
+    "sp": 7,
+    "vit": 17,
+    "def": 0,
+    "exp": 5374,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 63622,
+    "sp": 7,
+    "vit": 22,
+    "def": 2,
+    "exp": 8326,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6,
+    "sp": 15,
+    "vit": 59,
+    "def": 2,
+    "exp": 10757,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 169,
+    "sp": 6,
+    "vit": 10,
+    "def": 2,
+    "exp": 3065,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2166,
+    "sp": 410,
+    "vit": 1985,
+    "def": 98,
+    "exp": 289936,
+    "mdef": 95,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 39437,
+    "sp": 214,
+    "vit": 1082,
+    "def": 50,
+    "exp": 94218,
+    "mdef": 52,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 19,
+    "sp": 37,
+    "vit": 199,
+    "def": 3,
+    "exp": 7092,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7888,
+    "sp": 278,
+    "vit": 1580,
+    "def": 50,
+    "exp": 208023,
+    "mdef": 29,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 547,
+    "sp": 24,
+    "vit": 79,
+    "def": 15,
+    "exp": 17068,
+    "mdef": 15,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 595,
+    "sp": 148,
+    "vit": 815,
+    "def": 45,
+    "exp": 71427,
+    "mdef": 30,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9154,
+    "sp": 15,
+    "vit": 64,
+    "def": 0,
+    "exp": 10167,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2846,
+    "sp": 780,
+    "vit": 2556,
+    "def": 227,
+    "exp": 646012,
+    "mdef": 207,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 6336,
+    "sp": 20,
+    "vit": 75,
+    "def": 13,
+    "exp": 16753,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 28810,
+    "sp": 24,
+    "vit": 109,
+    "def": 17,
+    "exp": 34496,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 39681,
+    "sp": 15,
+    "vit": 51,
+    "def": 5,
+    "exp": 23890,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 10758,
+    "sp": 5,
+    "vit": 24,
+    "def": 0,
+    "exp": 2880,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11915,
+    "sp": 2,
+    "vit": 2,
+    "def": 0,
+    "exp": 1314,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 34,
+    "sp": 43,
+    "vit": 181,
+    "def": 6,
+    "exp": 15270,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 32979,
+    "sp": 42,
+    "vit": 153,
+    "def": 9,
+    "exp": 22930,
+    "mdef": 11,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6052,
+    "sp": 5,
+    "vit": 26,
+    "def": 2,
+    "exp": 2805,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2337,
+    "sp": 55,
+    "vit": 211,
+    "def": 13,
+    "exp": 18070,
+    "mdef": 13,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 83,
+    "vit": 366,
+    "def": 13,
+    "exp": 58130,
+    "mdef": 18,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 419,
+    "vit": 2162,
+    "def": 155,
+    "exp": 538994,
+    "mdef": 146,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 252,
+    "sp": 146,
+    "vit": 785,
+    "def": 21,
+    "exp": 87071,
+    "mdef": 13,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 405,
+    "sp": 198,
+    "vit": 1189,
+    "def": 52,
+    "exp": 222395,
+    "mdef": 49,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 138,
+    "sp": 99,
+    "vit": 429,
+    "def": 23,
+    "exp": 69647,
+    "mdef": 15,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 0,
+    "sp": 40,
+    "vit": 182,
+    "def": 10,
+    "exp": 25357,
+    "mdef": 12,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7071,
+    "sp": 17,
+    "vit": 86,
+    "def": 1,
+    "exp": 4065,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 483,
+    "sp": 241,
+    "vit": 1010,
+    "def": 58,
+    "exp": 200504,
+    "mdef": 57,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 135,
+    "sp": 395,
+    "vit": 1655,
+    "def": 146,
+    "exp": 293836,
+    "mdef": 148,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 38,
+    "sp": 19,
+    "vit": 91,
+    "def": 4,
+    "exp": 7885,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 20774,
+    "sp": 2,
+    "vit": 9,
+    "def": 2,
+    "exp": 2064,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 255,
+    "sp": 302,
+    "vit": 1363,
+    "def": 143,
+    "exp": 351699,
+    "mdef": 138,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 461,
+    "sp": 332,
+    "vit": 1487,
+    "def": 128,
+    "exp": 278174,
+    "mdef": 122,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 4800,
+    "sp": 5,
+    "vit": 11,
+    "def": 5,
+    "exp": 3281,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3,
+    "sp": 200,
+    "vit": 5000,
+    "def": 100,
+    "exp": 204071,
+    "mdef": 100,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6,
+    "sp": 30,
+    "vit": 2000000,
+    "def": 0,
+    "exp": 9999999999,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8194,
+    "sp": 5,
+    "vit": 29,
+    "def": 4,
+    "exp": 6297,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 321,
+    "sp": 4,
+    "vit": 5,
+    "def": 0,
+    "exp": 3225,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 24016,
+    "sp": 3,
+    "vit": 29,
+    "def": 0,
+    "exp": 2270,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 46236,
+    "sp": 235,
+    "vit": 988,
+    "def": 68,
+    "exp": 257019,
+    "mdef": 75,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 18052,
+    "sp": 46,
+    "vit": 162,
+    "def": 24,
+    "exp": 55482,
+    "mdef": 24,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 13293,
+    "sp": 157,
+    "vit": 650,
+    "def": 85,
+    "exp": 202813,
+    "mdef": 80,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 2508,
+    "sp": 4,
+    "vit": 17,
+    "def": 1,
+    "exp": 2011,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 35781,
+    "sp": 4,
+    "vit": 15,
+    "def": 0,
+    "exp": 8847,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 12514,
+    "sp": 20,
+    "vit": 59,
+    "def": 7,
+    "exp": 16435,
+    "mdef": 7,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 65357,
+    "sp": 83,
+    "vit": 244,
+    "def": 43,
+    "exp": 95401,
+    "mdef": 37,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 13714,
+    "sp": 7,
+    "vit": 12,
+    "def": 5,
+    "exp": 5840,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11539,
+    "sp": 84,
+    "vit": 436,
+    "def": 39,
+    "exp": 60907,
+    "mdef": 35,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2482,
+    "sp": 5,
+    "vit": 33,
+    "def": 0,
+    "exp": 4297,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 44673,
+    "sp": 2,
+    "vit": 4,
+    "def": 1,
+    "exp": 2951,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1,
+    "sp": 31,
+    "vit": 160,
+    "def": 3,
+    "exp": 14143,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 23977,
+    "sp": 13,
+    "vit": 51,
+    "def": 5,
+    "exp": 9829,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 18289,
+    "sp": 2,
+    "vit": 8,
+    "def": 0,
+    "exp": 2366,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 480,
+    "sp": 4,
+    "vit": 12,
+    "def": 1,
+    "exp": 1769,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 22,
+    "sp": 279,
+    "vit": 1784,
+    "def": 52,
+    "exp": 167417,
+    "mdef": 49,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 6544,
+    "sp": 2,
+    "vit": 5,
+    "def": 0,
+    "exp": 1185,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 30021,
+    "sp": 7,
+    "vit": 16,
+    "def": 0,
+    "exp": 8303,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9470,
+    "sp": 2,
+    "vit": 5,
+    "def": 1,
+    "exp": 5450,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 25362,
+    "sp": 35,
+    "vit": 106,
+    "def": 22,
+    "exp": 22465,
+    "mdef": 23,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 37432,
+    "sp": 61,
+    "vit": 337,
+    "def": 23,
+    "exp": 56153,
+    "mdef": 36,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 236628,
+    "sp": 8,
+    "vit": 19,
+    "def": 0,
+    "exp": 18685,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2,
+    "sp": 31,
+    "vit": 170,
+    "def": 1,
+    "exp": 22949,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8971,
+    "sp": 2,
+    "vit": 7,
+    "def": 0,
+    "exp": 1466,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1530,
+    "sp": 70,
+    "vit": 448,
+    "def": 12,
+    "exp": 33940,
+    "mdef": 7,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8584,
+    "sp": 41,
+    "vit": 259,
+    "def": 9,
+    "exp": 34426,
+    "mdef": 11,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 26619,
+    "sp": 14,
+    "vit": 95,
+    "def": 1,
+    "exp": 11463,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 13204,
+    "sp": 69,
+    "vit": 316,
+    "def": 28,
+    "exp": 47823,
+    "mdef": 32,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 40082,
+    "sp": 4,
+    "vit": 12,
+    "def": 0,
+    "exp": 3490,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 47456,
+    "sp": 22,
+    "vit": 92,
+    "def": 2,
+    "exp": 8780,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3148,
+    "sp": 1,
+    "vit": 3,
+    "def": 0,
+    "exp": 1710,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 15367,
+    "sp": 2,
+    "vit": 4,
+    "def": 0,
+    "exp": 1508,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6497,
+    "sp": 3,
+    "vit": 9,
+    "def": 0,
+    "exp": 1513,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 155,
+    "sp": 13,
+    "vit": 77,
+    "def": 0,
+    "exp": 1416,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 26152,
+    "sp": 6,
+    "vit": 29,
+    "def": 3,
+    "exp": 5596,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 6493,
+    "sp": 169,
+    "vit": 613,
+    "def": 63,
+    "exp": 133249,
+    "mdef": 61,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 18625,
+    "sp": 14,
+    "vit": 77,
+    "def": 0,
+    "exp": 11136,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 19671,
+    "sp": 101,
+    "vit": 381,
+    "def": 37,
+    "exp": 74539,
+    "mdef": 32,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 66391,
+    "sp": 87,
+    "vit": 296,
+    "def": 39,
+    "exp": 106042,
+    "mdef": 39,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9000,
+    "sp": 2,
+    "vit": 3,
+    "def": 0,
+    "exp": 3003,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 74367,
+    "sp": 10,
+    "vit": 34,
+    "def": 2,
+    "exp": 27622,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2550,
+    "sp": 33,
+    "vit": 194,
+    "def": 12,
+    "exp": 17567,
+    "mdef": 12,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 101212,
+    "sp": 36,
+    "vit": 88,
+    "def": 8,
+    "exp": 22796,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 18790,
+    "sp": 2,
+    "vit": 6,
+    "def": 0,
+    "exp": 1079,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 19775,
+    "sp": 2,
+    "vit": 3,
+    "def": 0,
+    "exp": 1856,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 24453,
+    "sp": 3,
+    "vit": 12,
+    "def": 1,
+    "exp": 3556,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 22332,
+    "sp": 7,
+    "vit": 44,
+    "def": 6,
+    "exp": 10387,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 174370,
+    "sp": 23,
+    "vit": 79,
+    "def": 12,
+    "exp": 39523,
+    "mdef": 12,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3,
+    "sp": 32,
+    "vit": 128,
+    "def": 18,
+    "exp": 29906,
+    "mdef": 21,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11984,
+    "sp": 2,
+    "vit": 5,
+    "def": 0,
+    "exp": 1096,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8225,
+    "sp": 4,
+    "vit": 19,
+    "def": 0,
+    "exp": 1010,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 124,
+    "sp": 63,
+    "vit": 301,
+    "def": 22,
+    "exp": 33468,
+    "mdef": 21,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 7788,
+    "sp": 277,
+    "vit": 1265,
+    "def": 45,
+    "exp": 147114,
+    "mdef": 49,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 108886,
+    "sp": 312,
+    "vit": 1069,
+    "def": 117,
+    "exp": 239596,
+    "mdef": 101,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 5512,
+    "sp": 60,
+    "vit": 343,
+    "def": 14,
+    "exp": 34065,
+    "mdef": 8,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5463,
+    "sp": 4,
+    "vit": 6,
+    "def": 0,
+    "exp": 3219,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 4426,
+    "sp": 180,
+    "vit": 749,
+    "def": 39,
+    "exp": 90597,
+    "mdef": 32,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5226,
+    "sp": 26,
+    "vit": 104,
+    "def": 5,
+    "exp": 7797,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 271,
+    "sp": 25,
+    "vit": 117,
+    "def": 3,
+    "exp": 13439,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 4692,
+    "sp": 9,
+    "vit": 55,
+    "def": 4,
+    "exp": 7198,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 207,
+    "sp": 2,
+    "vit": 1,
+    "def": 1,
+    "exp": 2479,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 44532,
+    "sp": 12,
+    "vit": 39,
+    "def": 8,
+    "exp": 16075,
+    "mdef": 9,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3082,
+    "sp": 21,
+    "vit": 101,
+    "def": 6,
+    "exp": 10478,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 454,
+    "sp": 5,
+    "vit": 25,
+    "def": 1,
+    "exp": 1199,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 13575,
+    "sp": 255,
+    "vit": 981,
+    "def": 87,
+    "exp": 161026,
+    "mdef": 78,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 18992,
+    "sp": 83,
+    "vit": 203,
+    "def": 40,
+    "exp": 110123,
+    "mdef": 37,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 451,
+    "sp": 68,
+    "vit": 417,
+    "def": 9,
+    "exp": 31366,
+    "mdef": 10,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 527,
+    "sp": 149,
+    "vit": 826,
+    "def": 37,
+    "exp": 98480,
+    "mdef": 42,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 998,
+    "sp": 187,
+    "vit": 909,
+    "def": 47,
+    "exp": 120362,
+    "mdef": 49,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 574,
+    "sp": 258,
+    "vit": 1423,
+    "def": 47,
+    "exp": 182303,
+    "mdef": 64,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 4907,
+    "sp": 38,
+    "vit": 172,
+    "def": 12,
+    "exp": 48413,
+    "mdef": 15,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 17146,
+    "sp": 146,
+    "vit": 680,
+    "def": 45,
+    "exp": 108451,
+    "mdef": 29,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 92,
+    "sp": 118,
+    "vit": 503,
+    "def": 19,
+    "exp": 84200,
+    "mdef": 28,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 4374,
+    "sp": 36,
+    "vit": 241,
+    "def": 6,
+    "exp": 26434,
+    "mdef": 10,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 62,
+    "sp": 16,
+    "vit": 130,
+    "def": 9,
+    "exp": 30120,
+    "mdef": 9,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 8,
+    "sp": 41,
+    "vit": 264,
+    "def": 5,
+    "exp": 33245,
+    "mdef": 11,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1174,
+    "sp": 49,
+    "vit": 306,
+    "def": 13,
+    "exp": 46456,
+    "mdef": 8,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1389,
+    "sp": 8,
+    "vit": 35,
+    "def": 0,
+    "exp": 5095,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2898,
+    "sp": 8,
+    "vit": 56,
+    "def": 4,
+    "exp": 5769,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 4758,
+    "sp": 97,
+    "vit": 502,
+    "def": 40,
+    "exp": 63655,
+    "mdef": 26,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 14219,
+    "sp": 154,
+    "vit": 884,
+    "def": 56,
+    "exp": 128186,
+    "mdef": 44,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 854,
+    "sp": 9,
+    "vit": 27,
+    "def": 4,
+    "exp": 8590,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 958,
+    "sp": 4,
+    "vit": 8,
+    "def": 0,
+    "exp": 1403,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 38812,
+    "sp": 158,
+    "vit": 487,
+    "def": 76,
+    "exp": 175971,
+    "mdef": 66,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 2034,
+    "sp": 12,
+    "vit": 97,
+    "def": 8,
+    "exp": 19700,
+    "mdef": 7,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 78521,
+    "sp": 50,
+    "vit": 253,
+    "def": 19,
+    "exp": 48896,
+    "mdef": 17,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 22571,
+    "sp": 46,
+    "vit": 212,
+    "def": 24,
+    "exp": 77534,
+    "mdef": 14,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 51602,
+    "sp": 32,
+    "vit": 128,
+    "def": 8,
+    "exp": 22192,
+    "mdef": 10,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 89957,
+    "sp": 74,
+    "vit": 253,
+    "def": 46,
+    "exp": 97203,
+    "mdef": 40,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 66593,
+    "sp": 31,
+    "vit": 94,
+    "def": 12,
+    "exp": 32688,
+    "mdef": 21,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 22723,
+    "sp": 6,
+    "vit": 16,
+    "def": 0,
+    "exp": 3644,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 88,
+    "sp": 2,
+    "vit": 10,
+    "def": 0,
+    "exp": 2908,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 26217,
+    "sp": 146,
+    "vit": 413,
+    "def": 77,
+    "exp": 190418,
+    "mdef": 56,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 19397,
+    "sp": 2,
+    "vit": 11,
+    "def": 1,
+    "exp": 4890,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 27963,
+    "sp": 2,
+    "vit": 8,
+    "def": 0,
+    "exp": 2036,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 335,
+    "sp": 17,
+    "vit": 54,
+    "def": 4,
+    "exp": 7647,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 45457,
+    "sp": 19,
+    "vit": 90,
+    "def": 10,
+    "exp": 24852,
+    "mdef": 10,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 27014,
+    "sp": 7,
+    "vit": 31,
+    "def": 3,
+    "exp": 8391,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 75,
+    "sp": 60,
+    "vit": 384,
+    "def": 18,
+    "exp": 47995,
+    "mdef": 22,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 25064,
+    "sp": 977,
+    "vit": 3346,
+    "def": 321,
+    "exp": 333843,
+    "mdef": 276,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 5459,
+    "sp": 6,
+    "vit": 36,
+    "def": 1,
+    "exp": 5342,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 12,
+    "sp": 12,
+    "vit": 38,
+    "def": 2,
+    "exp": 4464,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 53558,
+    "sp": 2,
+    "vit": 3,
+    "def": 0,
+    "exp": 3230,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 3687,
+    "sp": 124,
+    "vit": 689,
+    "def": 34,
+    "exp": 85337,
+    "mdef": 28,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 15198,
+    "sp": 164,
+    "vit": 807,
+    "def": 26,
+    "exp": 114859,
+    "mdef": 22,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1,
+    "sp": 30,
+    "vit": 200,
+    "def": 2000,
+    "exp": 13000,
+    "mdef": 2000,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 535,
+    "sp": 266,
+    "vit": 1160,
+    "def": 64,
+    "exp": 217129,
+    "mdef": 37,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 2761,
+    "sp": 209,
+    "vit": 832,
+    "def": 53,
+    "exp": 226604,
+    "mdef": 26,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 351,
+    "sp": 139,
+    "vit": 781,
+    "def": 36,
+    "exp": 108187,
+    "mdef": 39,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 943,
+    "sp": 249,
+    "vit": 1647,
+    "def": 51,
+    "exp": 141537,
+    "mdef": 56,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 26681,
+    "sp": 28,
+    "vit": 80,
+    "def": 15,
+    "exp": 24201,
+    "mdef": 13,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 63584,
+    "sp": 20,
+    "vit": 62,
+    "def": 1,
+    "exp": 9976,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 55330,
+    "sp": 43,
+    "vit": 171,
+    "def": 2,
+    "exp": 23704,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 14383,
+    "sp": 7,
+    "vit": 29,
+    "def": 0,
+    "exp": 4313,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2988,
+    "sp": 3,
+    "vit": 7,
+    "def": 0,
+    "exp": 1448,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 9715,
+    "sp": 4,
+    "vit": 16,
+    "def": 0,
+    "exp": 2462,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 20843,
+    "sp": 18,
+    "vit": 89,
+    "def": 3,
+    "exp": 7027,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 5902,
+    "sp": 268,
+    "vit": 1225,
+    "def": 51,
+    "exp": 148442,
+    "mdef": 63,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 30394,
+    "sp": 23,
+    "vit": 96,
+    "def": 11,
+    "exp": 32487,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 15900,
+    "sp": 2,
+    "vit": 1,
+    "def": 0,
+    "exp": 1180,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 300590,
+    "sp": 81,
+    "vit": 336,
+    "def": 9,
+    "exp": 72674,
+    "mdef": 6,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 16026,
+    "sp": 8,
+    "vit": 29,
+    "def": 3,
+    "exp": 6657,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 98408,
+    "sp": 35,
+    "vit": 74,
+    "def": 1,
+    "exp": 33928,
+    "mdef": 2,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 11672,
+    "sp": 19,
+    "vit": 47,
+    "def": 9,
+    "exp": 8970,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 532,
+    "sp": 1291,
+    "vit": 3669,
+    "def": 202,
+    "exp": 717194,
+    "mdef": 190,
+    "requiem": "Ascended"
+  },
+  {
+    "balance": 22008,
+    "sp": 6,
+    "vit": 8,
+    "def": 0,
+    "exp": 5480,
+    "mdef": 0,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 13777,
+    "sp": 22,
+    "vit": 92,
+    "def": 12,
+    "exp": 20911,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 16872,
+    "sp": 37,
+    "vit": 166,
+    "def": 4,
+    "exp": 23611,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 51396,
+    "sp": 9,
+    "vit": 51,
+    "def": 0,
+    "exp": 6740,
+    "mdef": 3,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 55629,
+    "sp": 20,
+    "vit": 67,
+    "def": 6,
+    "exp": 11518,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 15620,
+    "sp": 6,
+    "vit": 25,
+    "def": 0,
+    "exp": 1807,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 786,
+    "sp": 10,
+    "vit": 31,
+    "def": 5,
+    "exp": 7741,
+    "mdef": 4,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1735,
+    "sp": 14,
+    "vit": 69,
+    "def": 1,
+    "exp": 2533,
+    "mdef": 1,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 1418,
+    "sp": 9,
+    "vit": 48,
+    "def": 5,
+    "exp": 5359,
+    "mdef": 5,
+    "requiem": "Novice"
+  },
+  {
+    "balance": 2748,
+    "sp": 4,
+    "vit": 3,
+    "def": 0,
+    "exp": 1156,
+    "mdef": 0,
+    "requiem": "Novice"
+  }
+]
