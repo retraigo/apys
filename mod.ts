@@ -44,7 +44,7 @@ export class Apys {
     const permissionRequestStatus = await Deno.permissions.request(
       permissionRequestData,
     );
-    console.log(permissionRequestStatus)
+//    console.log(permissionRequestStatus)
     if (permissionRequestStatus.state === "granted") {
       let data = await Deno.readTextFile(this.filePath);
       if (this.inputType === "json") {
