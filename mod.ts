@@ -1,4 +1,15 @@
-import { BetterMap } from "./deps.ts";
+ import { BetterMap } from "./deps.ts";
+
+import type {
+  ApysOptions,
+  FileInputType,
+  FileOptions,
+  PropsAndResult,
+  StatsResult,
+  PropType,
+} from "./types.d.ts";
+
+import { parseArff, parseCSV, parseJSON } from "./parsers/mod.ts";
 
 class AccessError extends Error {
   constructor(message: string | undefined) {
@@ -6,42 +17,24 @@ class AccessError extends Error {
   }
 }
 
-type PropType = "TEXT" | "NUMBER" | string[];
-
-type FileInputType = "json" | "csv" | "arff";
-
-interface FileOptions {
-  path: string;
-  type: FileInputType;
-}
-
-interface PropsAndResult {
-  props: Record<string, PropType>;
-  data: unknown[]
-}
-
-interface ApysOptions {
-  file: FileOptions;
-  props?: Record<string, PropType>;
-}
-
 export class Apys {
-  props: Record<string, PropType> | undefined;
+  props: Record<string, PropType>;
   filePath: string;
   inputType: FileInputType;
-  data: Array<unknown> | BetterMap<unknown, unknown> | null;
+  data: unknown[][] | null;
   constructor(options: ApysOptions) {
-    this.props = options.props;
+    this.props = options.props || {};
     this.filePath = options.file.path;
     this.inputType = options.file.type || "json";
     this.data = [];
   }
   async load() {
     if (
-      !this.props && (this.inputType === "json" || this.inputType === "csv")
+      (!this.props || Object.keys(this.props).length === 0) &&
+      (this.inputType === "csv")
     ) {
       throw new TypeError(
-        "Props must be passed when input type is CSV or JSON",
+        "Props must be passed when input type is CSV",
       );
     }
     const permissionRequestData = {
@@ -51,26 +44,43 @@ export class Apys {
     const permissionRequestStatus = await Deno.permissions.request(
       permissionRequestData,
     );
-    console.log(permissionRequestStatus);
+    console.log(permissionRequestStatus)
     if (permissionRequestStatus.state === "granted") {
       let data = await Deno.readTextFile(this.filePath);
       if (this.inputType === "json") {
-        data = JSON.parse(data);
-        if (!Array.isArray(data)) {
-          throw new TypeError(`File content for JSON data must be an array.`);
-        }
-        this.data = data;
+        const parsedData = parseJSON(data);
+        this.data = parsedData.data;
+        this.props = this.normalizeProps(parsedData.props);
         return true;
       } else if (this.inputType === "csv") {
-        this.data = data.split("\n").map(parseCSV);
+        this.data = await parseCSV(data).then((n) =>
+          n.map((x) => {
+            const res = [];
+            const propVal = Object.values(this.props);
+            for (const prop in propVal) {
+              res.push(propVal[prop] === "NUMBER" ? Number(x[prop]) : x[prop]);
+            }
+            return res;
+          })
+        );
         return true;
       } else if (this.inputType === "arff") {
-        const arffdata = parseArff(data);
-        if (!arffdata) {
+        const parsedData = await parseArff(data);
+        if (!parsedData) {
           throw new TypeError(`File content for ARFF file invalid.`);
         }
-        this.data = arffdata.data;
-        this.props = arffdata.props;
+        this.props = this.normalizeProps(parsedData.props);
+
+        this.data = parsedData.data.map((x) => {
+          const res = [];
+          const propVal = Object.values(this.props);
+//          console.log(this.props)
+          for (const prop in propVal) {
+//            console.log(propVal[prop] === "NUMBER")
+            res.push(propVal[prop] === "NUMBER" ? Number(x[prop]) : x[prop]);
+          }
+          return res;
+        });
         return true;
       }
     }
@@ -78,68 +88,70 @@ export class Apys {
       `Couldn't access ${this.filePath} (DISALLOWED READ). Please restart the app with the correct permissions.`,
     );
   }
+  normalizeProps(props: Record<string, PropType>): Record<string, PropType> {
+    const res: Record<string, PropType> = {};
+    if(Object.keys(this.props).length === 0) return props;
+    for (const prop in this.props) {
+      if (props[prop] === this.props[prop]) res[prop] = props[prop];
+      else if (props[prop] === "NUMBER" && this.props[prop] === "TEXT") {
+        res[prop] = "TEXT";
+      } else if (props[prop] && !this.props[prop]) res[prop] = props[prop];
+      else if (!props[prop] && this.props[prop]) {
+        throw new TypeError(`Missing property ${prop} in data!`);
+      } else res[prop] = props[prop];
+    }
+    console.log(res, props)
+    return res;
+  }
+  stats(): Record<string, StatsResult> {
+    const result: Record<string, StatsResult> = {};
+    for (const prop in this.props) {
+      result[prop] = this.statsOf(prop)
+    }
+    return result;
+  }
+  statsOf(prop: string): StatsResult {
+    if(!this.props[prop]) throw new TypeError(`Invalid property ${prop}!`);
+    if(!this.data) throw new TypeError(`No data loaded!`);
+    if(this.props[prop] === "NUMBER") {
+      const data = this.data.map(x => Number(x[Object.keys(this.props).indexOf(prop)]) || 0) 
+//      console.log(data.filter(x => isNaN(x)))
+      const mean = data.reduce((acc: number, val: number) => acc + val, 0) / data.length;
+      const stdDev = Math.sqrt(data.reduce((acc: number, val: number) => acc + ((val - mean) ** 2), 0) / (data.length - 1))
+      const modeItem = this.getMode(data);
+//      console.log(data.filter(x => !x))
+      return {
+        max: data.reduce((acc: number, val: number) => acc > val ? acc : val, data[0]),
+        min: data.reduce((acc: number, val: number) => acc < val ? acc : val, data[0]),
+        mean: mean,
+        median: data.sort()[Math.floor((data.length - 1) / 2)],
+        mode: Number(modeItem),
+        standardDeviation: stdDev
+      }
+    }
+    else {
+      const data = this.data.map(x => x[Object.keys(this.props).indexOf(prop)])
+      const modeItem = this.getMode(data);
+      return {mode: String(modeItem)}
+    }
+  }
+  getMode<V>(data: V[]): V {
+    const recurring: V[] = data.filter((x, i) => data.indexOf(x) !== i);
+    const modeItem = new BetterMap<V, number>()
+    recurring.forEach(x => {
+      modeItem.set(x, (modeItem.get(x) || 0) + 1);
+    })
+    return modeItem.reduce((a: [V, number], v: [V, number]) => a[1] < v[1] ? v : a, [recurring[0], 0])[0];
+  } 
   json() {
-    return this.data?.map(x => {
+    return this.data?.map((x) => {
       const res: Record<string, unknown> = {};
-      const keys =  Object.keys(this.props || {});
-      for(const key in keys) {
-        const k = keys[key]
+      const keys = Object.keys(this.props || {});
+      for (const key in keys) {
+        const k = keys[key];
         res[k] = Array.isArray(x) ? x[key] : 0;
       }
       return res;
-    })
+    });
   }
-}
-
-function parseCSV(data: string): unknown[] | null {
-  const validRegex =
-    /^\s*(?:'[^'\\]*(?:\\[\S\s][^'\\]*)*'|"[^"\\]*(?:\\[\S\s][^"\\]*)*"|[^,'"\s\\]*(?:\s+[^,'"\s\\]+)*)\s*(?:,\s*(?:'[^'\\]*(?:\\[\S\s][^'\\]*)*'|"[^"\\]*(?:\\[\S\s][^"\\]*)*"|[^,'"\s\\]*(?:\s+[^,'"\s\\]+)*)\s*)*$/;
-  const csvRegex =
-    /(?!\s*$)\s*(?:'([^'\\]*(?:\\[\S\s][^'\\]*)*)'|"([^"\\]*(?:\\[\S\s][^"\\]*)*)"|([^,'"\s\\]*(?:\s+[^,'"\s\\]+)*))\s*(?:,|$)/g;
-  if (!validRegex.test(data)) return null;
-  const result = [];
-  data.replace(csvRegex, (m0, m1, m2, m3) => {
-    if (typeof m1 === "string") result.push(m1.replace(/\\'/g, "'"));
-    else if (typeof m2 === "string") result.push(m2.replace(/\\"/g, '"'));
-    else if (typeof m3 === "string") result.push(m3);
-    return "";
-  });
-  if (/,\s*$/.test(data)) result.push("");
-  return result;
-}
-
-function parseArff(data: string): PropsAndResult | null {
-  const splitData = data.split("\n");
-  //  console.log(splitData)
-  if (splitData.length === 0) return null;
-
-  // parse props
-  const props = splitData.filter((x) => x.toLowerCase().startsWith("@attribute")).map((x) =>
-    x.replace(/@ATTRIBUTE\s+/i, "").split(/((?:\s+)\t?)|\t/).filter((y) =>
-      y && !y.includes("\t")
-    )
-  ).map((x) => ({
-    name: x[0].replace(/\"|\'/g, ""),
-    type: x[1],
-  }));
-  const result: Record<string, PropType> = {};
-  for (const prop of props) {
-    if (/\{(.+)\}/.test(prop.type)) {
-      result[prop.name] = /\{(.+)\}/g.exec(prop.type)?.[1].split(/\,\s?/) || "TEXT";
-    } else {
-      if (prop.type.toLowerCase() === "real") result[prop.name] = "NUMBER";
-      else if (prop.type.toLowerCase() === "numeric") {
-        result[prop.name] = "NUMBER";
-      } else result[prop.name] = "TEXT";
-    }
-  }
-  const datasetItem = splitData.find((x) => x.toLowerCase().startsWith("@data"));
-  if (!datasetItem) return null;
-  const datasetIndex = splitData.indexOf(datasetItem);
-  const resData = splitData.slice(datasetIndex + 1, splitData.length);
-  if (resData.length === 0) return null;
-  return {
-    props: result,
-    data: resData.filter((x) => x).map((x) => parseCSV(x)).filter(x => x && x[0] !== "%"),
-  };
 }
